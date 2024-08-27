@@ -1,0 +1,9 @@
+/config/database.js
+/config/database.ts
+/config/gpt4.js
+/config/project_type.ts
+./run-ts.sh
+/assets/image/chatbottransactionsqrcode
+/node_modules/
+.env
+/config/connect.ts
